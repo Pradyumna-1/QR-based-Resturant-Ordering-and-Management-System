@@ -60,28 +60,28 @@ QR Codes | qrcode |
 Deployment | Docker (planned) |
 
 ---
-
 ## 📁 Project Structure
-smartdine-server/
- ├── src/
- │   ├── app.js
- │   ├── server.js
- │   ├── config/
- │   │   └── db.js
- │   ├── models/
- │   │   ├── User.js
- │   │   ├── Table.js
- │   │   ├── Category.js
- │   │   └── Dish.js
- │   ├── controllers/
- │   ├── routes/
- │   ├── middlewares/
- │   ├── utils/
- │   └── sockets/
- ├── .env
- ├── package.json
- └── README.md
 
+```
+smartdine-server/
+├── src/
+│   ├── app.js
+│   ├── server.js
+│   ├── config/
+│   │   └── db.js
+│   ├── models/
+│   │   ├── User.js
+│   │   ├── Table.js
+│   │   ├── Category.js
+│   │   └── Dish.js
+│   ├── controllers/
+│   ├── routes/
+│   ├── middlewares/
+│   ├── utils/
+│   └── sockets/
+├── .env
+├── package.json
+└── README.md
 
 
 ---
