@@ -11,7 +11,7 @@ The system is designed to simulate a real-world POS platform with Admin and Chef
 ### 👤 Customer (QR User)
 - Scan QR code to open menu for a specific table
 - Browse categorized menu
-- Veg / Egg / Non-Veg filtering
+- Veg / Non-Veg filtering
 - Live availability updates
 - Enter name & unique mobile number
 - Pay before order confirmation
